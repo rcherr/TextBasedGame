@@ -1,0 +1,7 @@
+0:-1:0:You stand in a dark damp barn. Moonlight shines feintly through poorly patched holes in the roof.:null.tobj
+0:0:0:Looking forward, you see a door which is chained shut and has small cracks to see the outside world.:shovel.tobj
+0:0:1:The chained door lets brisk air through, freezing your nostril hairs still.:door.tobj
+0:0:2:You look north and by now you're drunk:null.tobj
+0:1:0:You look to the east:lint.tobj
+0:2:0:You Look south and there's lots of lint:lint.tobj
+0:3:0:You Look to the left and see water falling:lint.tobj

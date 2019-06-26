@@ -1,0 +1,4 @@
+name=Door
+state:0:A large wooden door with a weakened lock.
+state:1:A large wooden door that now hangs open.
+interact:shovel:1:You smash the lock off with a brutish swing of the shovel

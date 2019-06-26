@@ -1,0 +1,6 @@
+name=Shovel
+take=You take the {} and strap it to your back. It's quite heavy.
+state:0:A dusty old shovel covered in what appears to be dried blood.
+state:1:A dented, dusty old shovel
+interact:shovel:1:Quit sword fighting, bub
+interact:lint:0:Why would you hurt that poor lint?
